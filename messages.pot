@@ -1250,6 +1250,8 @@ msgid "Only fill this field if required. Usually it is not required. If you SMTP
 msgstr ""
 msgid "Hotels email notifications subject"
 msgstr ""
+msgid "Send to hotel email notifications subject "
+msgstr ""
 msgid "Send All Quotes To"
 msgstr ""
 msgid "Send Reservation Email Alerts To"
